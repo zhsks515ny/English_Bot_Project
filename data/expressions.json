@@ -1,0 +1,704 @@
+{
+  "expressions": [
+    {
+      "id": 1,
+      "expression": "Break the ice",
+      "meaning": "To initiate a conversation in a social setting",
+      "meaning_kr": "어색한 분위기를 깨다",
+      "example": "He told a joke to break the ice at the meeting."
+    },
+    {
+      "id": 2,
+      "expression": "Hit the nail on the head",
+      "meaning": "To describe exactly what is causing a situation or problem",
+      "meaning_kr": "정확히 맞추다, 핵심을 찌르다",
+      "example": "You hit the nail on the head when you said the problem was communication."
+    },
+    {
+      "id": 3,
+      "expression": "Under the weather",
+      "meaning": "Feeling ill or sick",
+      "meaning_kr": "몸이 안 좋다",
+      "example": "I'm feeling a bit under the weather today."
+    },
+    {
+      "id": 4,
+      "expression": "Bite the bullet",
+      "meaning": "To endure a painful or difficult situation",
+      "meaning_kr": "어려운 상황을 감수하다",
+      "example": "I had to bite the bullet and apologize to him."
+    },
+    {
+      "id": 5,
+      "expression": "Piece of cake",
+      "meaning": "Something very easy to do",
+      "meaning_kr": "식은 죽 먹기, 아주 쉬운 일",
+      "example": "The exam was a piece of cake."
+    },
+    {
+      "id": 6,
+      "expression": "Cost an arm and a leg",
+      "meaning": "To be very expensive",
+      "meaning_kr": "매우 비싸다",
+      "example": "That new car cost me an arm and a leg."
+    },
+    {
+      "id": 7,
+      "expression": "Let the cat out of the bag",
+      "meaning": "To reveal a secret accidentally",
+      "meaning_kr": "비밀을 누설하다",
+      "example": "She let the cat out of the bag about the surprise party."
+    },
+    {
+      "id": 8,
+      "expression": "Kill two birds with one stone",
+      "meaning": "To accomplish two things with a single action",
+      "meaning_kr": "일석이조",
+      "example": "By cycling to work, I kill two birds with one stone - saving money and staying fit."
+    },
+    {
+      "id": 9,
+      "expression": "When pigs fly",
+      "meaning": "Something that will never happen",
+      "meaning_kr": "절대 일어나지 않을 일",
+      "example": "He'll clean his room when pigs fly."
+    },
+    {
+      "id": 10,
+      "expression": "Spill the beans",
+      "meaning": "To reveal secret information",
+      "meaning_kr": "비밀을 털어놓다",
+      "example": "Come on, spill the beans! What happened?"
+    },
+    {
+      "id": 11,
+      "expression": "Beat around the bush",
+      "meaning": "To avoid talking about the main topic",
+      "meaning_kr": "핵심을 피해 말하다",
+      "example": "Stop beating around the bush and tell me what you want."
+    },
+    {
+      "id": 12,
+      "expression": "Call it a day",
+      "meaning": "To stop working on something",
+      "meaning_kr": "오늘 일은 여기서 끝내다",
+      "example": "We've done enough work. Let's call it a day."
+    },
+    {
+      "id": 13,
+      "expression": "Get out of hand",
+      "meaning": "To become uncontrollable",
+      "meaning_kr": "통제 불능이 되다",
+      "example": "The party got out of hand when more guests arrived."
+    },
+    {
+      "id": 14,
+      "expression": "Hang in there",
+      "meaning": "To persist through a difficult time",
+      "meaning_kr": "버티다, 포기하지 마",
+      "example": "Hang in there! Things will get better soon."
+    },
+    {
+      "id": 15,
+      "expression": "It's not rocket science",
+      "meaning": "It's not difficult to understand",
+      "meaning_kr": "어려운 게 아니다",
+      "example": "Come on, it's not rocket science. Just follow the instructions."
+    },
+    {
+      "id": 16,
+      "expression": "Miss the boat",
+      "meaning": "To miss an opportunity",
+      "meaning_kr": "기회를 놓치다",
+      "example": "I missed the boat on that job opportunity."
+    },
+    {
+      "id": 17,
+      "expression": "On the same page",
+      "meaning": "To have the same understanding",
+      "meaning_kr": "같은 생각을 가지다",
+      "example": "Let's make sure we're all on the same page before we start."
+    },
+    {
+      "id": 18,
+      "expression": "Pull someone's leg",
+      "meaning": "To joke with someone",
+      "meaning_kr": "농담하다, 놀리다",
+      "example": "I was just pulling your leg. I didn't mean it."
+    },
+    {
+      "id": 19,
+      "expression": "Take it with a grain of salt",
+      "meaning": "To not take something too seriously",
+      "meaning_kr": "걸러서 듣다",
+      "example": "Take his advice with a grain of salt."
+    },
+    {
+      "id": 20,
+      "expression": "The ball is in your court",
+      "meaning": "It's your turn to make a decision",
+      "meaning_kr": "이제 네 차례야",
+      "example": "I've done my part. The ball is in your court now."
+    },
+    {
+      "id": 21,
+      "expression": "Think outside the box",
+      "meaning": "To think creatively",
+      "meaning_kr": "창의적으로 생각하다",
+      "example": "We need to think outside the box to solve this problem."
+    },
+    {
+      "id": 22,
+      "expression": "Up in the air",
+      "meaning": "Uncertain or undecided",
+      "meaning_kr": "불확실하다",
+      "example": "Our vacation plans are still up in the air."
+    },
+    {
+      "id": 23,
+      "expression": "A blessing in disguise",
+      "meaning": "Something good that isn't recognized at first",
+      "meaning_kr": "전화위복",
+      "example": "Losing that job was a blessing in disguise."
+    },
+    {
+      "id": 24,
+      "expression": "Add fuel to the fire",
+      "meaning": "To make a bad situation worse",
+      "meaning_kr": "불난 집에 부채질하다",
+      "example": "His comments only added fuel to the fire."
+    },
+    {
+      "id": 25,
+      "expression": "Back to square one",
+      "meaning": "To start over from the beginning",
+      "meaning_kr": "원점으로 돌아가다",
+      "example": "The project failed, so we're back to square one."
+    },
+    {
+      "id": 26,
+      "expression": "Barking up the wrong tree",
+      "meaning": "To pursue the wrong course of action",
+      "meaning_kr": "헛다리 짚다",
+      "example": "If you think I stole it, you're barking up the wrong tree."
+    },
+    {
+      "id": 27,
+      "expression": "Better late than never",
+      "meaning": "It's better to do something late than not at all",
+      "meaning_kr": "안 하는 것보다 늦게라도 하는 게 낫다",
+      "example": "You finally finished? Well, better late than never!"
+    },
+    {
+      "id": 28,
+      "expression": "Burn the midnight oil",
+      "meaning": "To work late into the night",
+      "meaning_kr": "밤늦게까지 일하다",
+      "example": "I had to burn the midnight oil to finish the report."
+    },
+    {
+      "id": 29,
+      "expression": "Bury the hatchet",
+      "meaning": "To make peace and end a conflict",
+      "meaning_kr": "화해하다",
+      "example": "After years of fighting, they decided to bury the hatchet."
+    },
+    {
+      "id": 30,
+      "expression": "Cut corners",
+      "meaning": "To do something in the easiest or cheapest way",
+      "meaning_kr": "비용이나 노력을 줄이다",
+      "example": "Don't cut corners on safety measures."
+    },
+    {
+      "id": 31,
+      "expression": "Don't cry over spilled milk",
+      "meaning": "Don't worry about things that have already happened",
+      "meaning_kr": "지나간 일에 연연하지 마",
+      "example": "It's done now. Don't cry over spilled milk."
+    },
+    {
+      "id": 32,
+      "expression": "Easy come, easy go",
+      "meaning": "Something obtained easily is easily lost",
+      "meaning_kr": "쉽게 얻은 것은 쉽게 잃는다",
+      "example": "He spent all his lottery winnings. Easy come, easy go."
+    },
+    {
+      "id": 33,
+      "expression": "Get cold feet",
+      "meaning": "To become nervous about doing something",
+      "meaning_kr": "겁이 나다",
+      "example": "He got cold feet before his wedding."
+    },
+    {
+      "id": 34,
+      "expression": "Go the extra mile",
+      "meaning": "To make an extra effort",
+      "meaning_kr": "더 노력하다",
+      "example": "She always goes the extra mile for her customers."
+    },
+    {
+      "id": 35,
+      "expression": "Hit the ground running",
+      "meaning": "To start something with immediate enthusiasm",
+      "meaning_kr": "빠르게 시작하다",
+      "example": "We need to hit the ground running on this project."
+    },
+    {
+      "id": 36,
+      "expression": "In hot water",
+      "meaning": "In trouble",
+      "meaning_kr": "곤경에 처하다",
+      "example": "He's in hot water with his boss."
+    },
+    {
+      "id": 37,
+      "expression": "Jump on the bandwagon",
+      "meaning": "To join a popular activity or trend",
+      "meaning_kr": "유행에 편승하다",
+      "example": "Everyone's jumping on the AI bandwagon."
+    },
+    {
+      "id": 38,
+      "expression": "Keep your chin up",
+      "meaning": "Stay positive during difficult times",
+      "meaning_kr": "기운 내",
+      "example": "Keep your chin up! You'll find a new job soon."
+    },
+    {
+      "id": 39,
+      "expression": "Leave no stone unturned",
+      "meaning": "To search thoroughly",
+      "meaning_kr": "모든 수단을 동원하다",
+      "example": "We'll leave no stone unturned to find the solution."
+    },
+    {
+      "id": 40,
+      "expression": "Make a long story short",
+      "meaning": "To summarize briefly",
+      "meaning_kr": "간단히 말하자면",
+      "example": "To make a long story short, we missed the train."
+    },
+    {
+      "id": 41,
+      "expression": "No pain, no gain",
+      "meaning": "You have to work hard to achieve results",
+      "meaning_kr": "고생 없이 얻는 것 없다",
+      "example": "Keep exercising! No pain, no gain."
+    },
+    {
+      "id": 42,
+      "expression": "Once in a blue moon",
+      "meaning": "Very rarely",
+      "meaning_kr": "아주 가끔",
+      "example": "I only eat fast food once in a blue moon."
+    },
+    {
+      "id": 43,
+      "expression": "Play it by ear",
+      "meaning": "To decide as things develop",
+      "meaning_kr": "상황에 따라 결정하다",
+      "example": "Let's just play it by ear and see what happens."
+    },
+    {
+      "id": 44,
+      "expression": "Put all your eggs in one basket",
+      "meaning": "To risk everything on a single opportunity",
+      "meaning_kr": "한 곳에 모든 것을 걸다",
+      "example": "Don't put all your eggs in one basket. Diversify!"
+    },
+    {
+      "id": 45,
+      "expression": "Read between the lines",
+      "meaning": "To understand the hidden meaning",
+      "meaning_kr": "행간을 읽다",
+      "example": "You need to read between the lines of her email."
+    },
+    {
+      "id": 46,
+      "expression": "See eye to eye",
+      "meaning": "To agree with someone",
+      "meaning_kr": "의견이 일치하다",
+      "example": "We don't always see eye to eye on politics."
+    },
+    {
+      "id": 47,
+      "expression": "Sit on the fence",
+      "meaning": "To be undecided",
+      "meaning_kr": "중립을 지키다, 결정하지 못하다",
+      "example": "Stop sitting on the fence and make a decision."
+    },
+    {
+      "id": 48,
+      "expression": "Sleep on it",
+      "meaning": "To think about something overnight",
+      "meaning_kr": "하룻밤 생각해 보다",
+      "example": "It's a big decision. Why don't you sleep on it?"
+    },
+    {
+      "id": 49,
+      "expression": "Speak of the devil",
+      "meaning": "Said when someone appears just as they are mentioned",
+      "meaning_kr": "호랑이도 제 말 하면 온다",
+      "example": "Speak of the devil! We were just talking about you."
+    },
+    {
+      "id": 50,
+      "expression": "Steal someone's thunder",
+      "meaning": "To take credit for someone else's work",
+      "meaning_kr": "남의 공을 가로채다",
+      "example": "He stole my thunder by announcing my idea first."
+    },
+    {
+      "id": 51,
+      "expression": "Take a rain check",
+      "meaning": "To postpone an invitation",
+      "meaning_kr": "다음 기회로 미루다",
+      "example": "Can I take a rain check on dinner tonight?"
+    },
+    {
+      "id": 52,
+      "expression": "The best of both worlds",
+      "meaning": "A situation with all advantages",
+      "meaning_kr": "두 가지 장점을 다 얻다",
+      "example": "Working from home gives me the best of both worlds."
+    },
+    {
+      "id": 53,
+      "expression": "The elephant in the room",
+      "meaning": "An obvious problem that no one wants to discuss",
+      "meaning_kr": "모두가 알지만 언급하지 않는 문제",
+      "example": "His drinking problem is the elephant in the room."
+    },
+    {
+      "id": 54,
+      "expression": "The last straw",
+      "meaning": "The final problem in a series",
+      "meaning_kr": "마지막 한계",
+      "example": "Being late again was the last straw."
+    },
+    {
+      "id": 55,
+      "expression": "Throw in the towel",
+      "meaning": "To give up",
+      "meaning_kr": "포기하다",
+      "example": "After months of trying, she threw in the towel."
+    },
+    {
+      "id": 56,
+      "expression": "Time flies",
+      "meaning": "Time passes quickly",
+      "meaning_kr": "시간이 빨리 간다",
+      "example": "Time flies when you're having fun."
+    },
+    {
+      "id": 57,
+      "expression": "Turn a blind eye",
+      "meaning": "To ignore something deliberately",
+      "meaning_kr": "눈을 감다, 모른 척하다",
+      "example": "He turned a blind eye to the cheating."
+    },
+    {
+      "id": 58,
+      "expression": "Two heads are better than one",
+      "meaning": "Working together is more effective",
+      "meaning_kr": "백지장도 맞들면 낫다",
+      "example": "Let's work together. Two heads are better than one."
+    },
+    {
+      "id": 59,
+      "expression": "Under pressure",
+      "meaning": "In a stressful situation",
+      "meaning_kr": "압박을 받는",
+      "example": "I work well under pressure."
+    },
+    {
+      "id": 60,
+      "expression": "Water under the bridge",
+      "meaning": "Past events that are no longer important",
+      "meaning_kr": "지나간 일",
+      "example": "Our argument last year is water under the bridge."
+    },
+    {
+      "id": 61,
+      "expression": "Wrap your head around",
+      "meaning": "To understand something difficult",
+      "meaning_kr": "이해하다",
+      "example": "I can't wrap my head around quantum physics."
+    },
+    {
+      "id": 62,
+      "expression": "You can say that again",
+      "meaning": "I strongly agree",
+      "meaning_kr": "정말 그래, 동감이야",
+      "example": "\"This weather is terrible.\" \"You can say that again!\""
+    },
+    {
+      "id": 63,
+      "expression": "Actions speak louder than words",
+      "meaning": "What you do is more important than what you say",
+      "meaning_kr": "말보다 행동이 중요하다",
+      "example": "Don't just promise—actions speak louder than words."
+    },
+    {
+      "id": 64,
+      "expression": "At the drop of a hat",
+      "meaning": "Immediately, without hesitation",
+      "meaning_kr": "즉시, 주저 없이",
+      "example": "She would help anyone at the drop of a hat."
+    },
+    {
+      "id": 65,
+      "expression": "Bite off more than you can chew",
+      "meaning": "To take on more than you can handle",
+      "meaning_kr": "능력 이상의 일을 맡다",
+      "example": "I bit off more than I could chew with this project."
+    },
+    {
+      "id": 66,
+      "expression": "By the skin of your teeth",
+      "meaning": "By a very narrow margin",
+      "meaning_kr": "간신히, 가까스로",
+      "example": "I passed the exam by the skin of my teeth."
+    },
+    {
+      "id": 67,
+      "expression": "Cross that bridge when you come to it",
+      "meaning": "Deal with a problem when it arises",
+      "meaning_kr": "그때 가서 생각하다",
+      "example": "Don't worry about it now. Cross that bridge when you come to it."
+    },
+    {
+      "id": 68,
+      "expression": "Cut to the chase",
+      "meaning": "Get to the point",
+      "meaning_kr": "본론으로 들어가다",
+      "example": "Let's cut to the chase. What do you want?"
+    },
+    {
+      "id": 69,
+      "expression": "Don't judge a book by its cover",
+      "meaning": "Don't judge by appearances",
+      "meaning_kr": "외모로 판단하지 마",
+      "example": "He looks tough, but don't judge a book by its cover."
+    },
+    {
+      "id": 70,
+      "expression": "Every cloud has a silver lining",
+      "meaning": "There's something good in every bad situation",
+      "meaning_kr": "전화위복, 희망은 있다",
+      "example": "I lost my job but found a better one. Every cloud has a silver lining."
+    },
+    {
+      "id": 71,
+      "expression": "Get your act together",
+      "meaning": "Start behaving responsibly",
+      "meaning_kr": "정신 차려",
+      "example": "You need to get your act together and focus."
+    },
+    {
+      "id": 72,
+      "expression": "Give someone the benefit of the doubt",
+      "meaning": "Trust someone despite uncertainty",
+      "meaning_kr": "일단 믿어주다",
+      "example": "Let's give him the benefit of the doubt."
+    },
+    {
+      "id": 73,
+      "expression": "Go with the flow",
+      "meaning": "Accept things as they happen",
+      "meaning_kr": "흐름에 맡기다",
+      "example": "Don't stress. Just go with the flow."
+    },
+    {
+      "id": 74,
+      "expression": "Have a lot on your plate",
+      "meaning": "To be very busy",
+      "meaning_kr": "할 일이 많다",
+      "example": "I can't take on more work. I have a lot on my plate."
+    },
+    {
+      "id": 75,
+      "expression": "Hit the books",
+      "meaning": "To study hard",
+      "meaning_kr": "열심히 공부하다",
+      "example": "I need to hit the books for my finals."
+    },
+    {
+      "id": 76,
+      "expression": "In the same boat",
+      "meaning": "In the same difficult situation",
+      "meaning_kr": "같은 처지에 있다",
+      "example": "We're all in the same boat with this deadline."
+    },
+    {
+      "id": 77,
+      "expression": "It takes two to tango",
+      "meaning": "Both parties are responsible",
+      "meaning_kr": "쌍방의 책임이다",
+      "example": "Don't blame just her. It takes two to tango."
+    },
+    {
+      "id": 78,
+      "expression": "Jump the gun",
+      "meaning": "To act too quickly",
+      "meaning_kr": "성급하게 행동하다",
+      "example": "Don't jump the gun. Wait for the official announcement."
+    },
+    {
+      "id": 79,
+      "expression": "Keep an eye on",
+      "meaning": "To watch carefully",
+      "meaning_kr": "주시하다",
+      "example": "Can you keep an eye on my bag?"
+    },
+    {
+      "id": 80,
+      "expression": "Let sleeping dogs lie",
+      "meaning": "Avoid interfering with a situation",
+      "meaning_kr": "긁어 부스럼 만들지 마",
+      "example": "Don't bring up the past. Let sleeping dogs lie."
+    },
+    {
+      "id": 81,
+      "expression": "Make ends meet",
+      "meaning": "To manage financially",
+      "meaning_kr": "생계를 유지하다",
+      "example": "It's hard to make ends meet with rising prices."
+    },
+    {
+      "id": 82,
+      "expression": "Not my cup of tea",
+      "meaning": "Not something I enjoy",
+      "meaning_kr": "내 취향이 아니다",
+      "example": "Horror movies are not my cup of tea."
+    },
+    {
+      "id": 83,
+      "expression": "Off the top of my head",
+      "meaning": "Without careful thought",
+      "meaning_kr": "즉석에서, 생각나는 대로",
+      "example": "Off the top of my head, I'd say about 50 people."
+    },
+    {
+      "id": 84,
+      "expression": "Out of the blue",
+      "meaning": "Unexpectedly",
+      "meaning_kr": "갑자기, 느닷없이",
+      "example": "She called me out of the blue after 10 years."
+    },
+    {
+      "id": 85,
+      "expression": "Pull your weight",
+      "meaning": "To do your fair share of work",
+      "meaning_kr": "자기 몫을 하다",
+      "example": "Everyone needs to pull their weight on this team."
+    },
+    {
+      "id": 86,
+      "expression": "Put yourself in someone's shoes",
+      "meaning": "To imagine being in someone's situation",
+      "meaning_kr": "남의 입장이 되어 보다",
+      "example": "Put yourself in her shoes before judging."
+    },
+    {
+      "id": 87,
+      "expression": "Ring a bell",
+      "meaning": "To sound familiar",
+      "meaning_kr": "기억이 나다",
+      "example": "That name rings a bell, but I can't place it."
+    },
+    {
+      "id": 88,
+      "expression": "Rock the boat",
+      "meaning": "To disturb a stable situation",
+      "meaning_kr": "문제를 일으키다",
+      "example": "Don't rock the boat. Things are going well."
+    },
+    {
+      "id": 89,
+      "expression": "Save for a rainy day",
+      "meaning": "To save money for future needs",
+      "meaning_kr": "만약을 대비해 저축하다",
+      "example": "I always save some money for a rainy day."
+    },
+    {
+      "id": 90,
+      "expression": "Scratch the surface",
+      "meaning": "To deal with only a small part",
+      "meaning_kr": "표면만 긁다, 피상적으로 다루다",
+      "example": "We've only scratched the surface of this topic."
+    },
+    {
+      "id": 91,
+      "expression": "Straight from the horse's mouth",
+      "meaning": "From a reliable source",
+      "meaning_kr": "직접 들은 확실한 정보",
+      "example": "I heard it straight from the horse's mouth."
+    },
+    {
+      "id": 92,
+      "expression": "Take it easy",
+      "meaning": "Relax, don't work too hard",
+      "meaning_kr": "편히 쉬어, 무리하지 마",
+      "example": "Take it easy this weekend. You deserve a break."
+    },
+    {
+      "id": 93,
+      "expression": "The tip of the iceberg",
+      "meaning": "A small part of a larger problem",
+      "meaning_kr": "빙산의 일각",
+      "example": "These complaints are just the tip of the iceberg."
+    },
+    {
+      "id": 94,
+      "expression": "Under someone's nose",
+      "meaning": "Right in front of someone",
+      "meaning_kr": "바로 코앞에서",
+      "example": "The answer was right under my nose all along."
+    },
+    {
+      "id": 95,
+      "expression": "Walk on eggshells",
+      "meaning": "To be very careful about what you say",
+      "meaning_kr": "조심스럽게 행동하다",
+      "example": "I feel like I'm walking on eggshells around him."
+    },
+    {
+      "id": 96,
+      "expression": "Wear your heart on your sleeve",
+      "meaning": "To show your emotions openly",
+      "meaning_kr": "감정을 숨기지 않다",
+      "example": "She wears her heart on her sleeve."
+    },
+    {
+      "id": 97,
+      "expression": "When it rains, it pours",
+      "meaning": "Problems come all at once",
+      "meaning_kr": "설상가상, 엎친 데 덮친 격",
+      "example": "First my car broke, then I got sick. When it rains, it pours."
+    },
+    {
+      "id": 98,
+      "expression": "You can't have your cake and eat it too",
+      "meaning": "You can't have everything",
+      "meaning_kr": "두 마리 토끼를 잡을 수 없다",
+      "example": "You want more free time but more money? You can't have your cake and eat it too."
+    },
+    {
+      "id": 99,
+      "expression": "Your guess is as good as mine",
+      "meaning": "I don't know either",
+      "meaning_kr": "나도 몰라",
+      "example": "When will this end? Your guess is as good as mine."
+    },
+    {
+      "id": 100,
+      "expression": "Zero in on",
+      "meaning": "To focus attention on something",
+      "meaning_kr": "~에 집중하다",
+      "example": "Let's zero in on the main issue."
+    }
+  ]
+}
