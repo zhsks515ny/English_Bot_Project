@@ -3,7 +3,7 @@ name: Send Daily English Expression
 on:
   schedule:
     # Run every day at 8:00 AM KST (23:00 UTC previous day)
-    - cron: '0 23 * * *'
+    - cron: '0 * * * *'
 
   # Allow manual trigger
   workflow_dispatch:
