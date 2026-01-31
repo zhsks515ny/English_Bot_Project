@@ -3,7 +3,7 @@ name: Send Daily English Expression
 on:
   schedule:
     # Run every hour
-    - cron: '0/5 * * * *'
+    - cron: '*/5 * * * *'
 
   # Allow manual trigger
   workflow_dispatch:
